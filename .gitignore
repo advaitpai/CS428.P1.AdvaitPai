@@ -59,3 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 /[Pp]ackages/com.ptc.vuforia.engine-*
+.DS_Store
